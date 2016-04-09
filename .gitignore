@@ -9,3 +9,4 @@ Project*
 *.LOG
 *.pcbdoc_viewstate
 *.pcblib_viewstate
+*.SchDotPreview
